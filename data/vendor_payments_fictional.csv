@@ -1,0 +1,49 @@
+txn_id,pay_date,vendor,invoice_no,description,amount_inr,approvals,bank_country
+T001,2025-01-05,Coastal Freight Carriers,COA/01/664,Domestic freight,109212,1,IN
+T002,2025-01-08,Kaveri Packaging Pvt Ltd,KAV/01/149,Packaging material,160884,1,IN
+T003,2025-01-18,Sterling Marine Consultants LLC,SMC-101,Consulting services - port liaison,498000,1,AE
+T004,2025-01-22,Southern Steel Traders,SOU/01/696,Steel sheets,188547,1,IN
+T005,2025-01-22,Brightline IT Services,BRI/01/188,IT support,66905,1,IN
+T006,2025-02-10,Orion Clearance Associates,OCA-20,Clearance and facilitation charges,250000,1,IN
+T007,2025-02-22,Sterling Marine Consultants LLC,SMC-102,Consulting services - port liaison,497500,1,AE
+T008,2025-02-24,Kaveri Packaging Pvt Ltd,KAV/02/745,Packaging material,105329,1,IN
+T009,2025-03-10,Kaveri Packaging Pvt Ltd,KAV/03/979,Packaging material,89572,1,IN
+T010,2025-03-15,Sterling Marine Consultants LLC,SMC-103,Consulting services - port liaison,499000,1,AE
+T011,2025-03-17,Southern Steel Traders,SOU/03/220,Steel sheets,209070,1,IN
+T012,2025-04-05,Brightline IT Services,BRI/04/733,IT support,102708,1,IN
+T013,2025-04-08,Orion Clearance Associates,OCA-21,Clearance and facilitation charges,300000,1,IN
+T014,2025-04-19,Sterling Marine Consultants LLC,SMC-104,Consulting services - port liaison,498500,1,AE
+T015,2025-04-24,Southern Steel Traders,SOU/04/481,Steel sheets,411625,1,IN
+T016,2025-04-26,Coastal Freight Carriers,COA/04/895,Domestic freight,168855,1,IN
+T017,2025-05-05,Coastal Freight Carriers,COA/05/528,Domestic freight,84166,1,IN
+T018,2025-05-05,Southern Steel Traders,SOU/05/417,Steel sheets,312450,1,IN
+T019,2025-05-08,Southern Steel Traders,SOU/05/688,Steel sheets,249911,1,IN
+T020,2025-05-19,Brightline IT Services,BRI/05/559,IT support,80194,1,IN
+T021,2025-05-24,Kaveri Packaging Pvt Ltd,KAV/05/406,Packaging material,172847,1,IN
+T022,2025-05-24,Sterling Marine Consultants LLC,SMC-105,Consulting services - port liaison,499500,1,AE
+T023,2025-05-29,Southern Steel Traders,SOU/05/417,Steel sheets,312450,1,IN
+T024,2025-06-10,Orion Clearance Associates,OCA-22,Clearance and facilitation charges,250000,1,IN
+T025,2025-06-14,Sterling Marine Consultants LLC,SMC-106,Consulting services - port liaison,497000,1,AE
+T026,2025-06-15,Kaveri Packaging Pvt Ltd,KAV/06/531,Packaging material,111163,1,IN
+T027,2025-06-26,Southern Steel Traders,SOU/06/671,Steel sheets,181798,1,IN
+T028,2025-07-05,Brightline IT Services,BRI/07/813,IT support,72661,1,IN
+T029,2025-07-15,Kaveri Packaging Pvt Ltd,KAV/07/693,Packaging material,201764,1,IN
+T030,2025-07-19,Sterling Marine Consultants LLC,SMC-107,Consulting services - port liaison,499000,1,AE
+T031,2025-08-12,Kaveri Packaging Pvt Ltd,KAV/08/797,Packaging material,212574,1,IN
+T032,2025-08-12,Orion Clearance Associates,OCA-23,Clearance and facilitation charges,300000,1,IN
+T033,2025-08-17,Brightline IT Services,BRI/08/123,IT support,113445,1,IN
+T034,2025-08-23,Sterling Marine Consultants LLC,SMC-108,Consulting services - port liaison,498000,1,AE
+T035,2025-09-12,Southern Steel Traders,SOU/09/353,Steel sheets,202995,1,IN
+T036,2025-09-12,Coastal Freight Carriers,COA/09/984,Domestic freight,88056,1,IN
+T037,2025-09-13,Sterling Marine Consultants LLC,SMC-109,Consulting services - port liaison,499500,1,AE
+T038,2025-09-19,Brightline IT Services,BRI/09/559,IT support,53222,1,IN
+T039,2025-09-24,Kaveri Packaging Pvt Ltd,KAV/09/160,Packaging material,103964,1,IN
+T040,2025-09-26,Harbourview Events & Hospitality,HEH-77,Hospitality - customs department visit,185000,1,IN
+T041,2025-10-07,Orion Clearance Associates,OCA-24,Clearance and facilitation charges,350000,1,IN
+T042,2025-10-18,Sterling Marine Consultants LLC,SMC-110,Consulting services - port liaison,498000,1,AE
+T043,2025-11-10,Kaveri Packaging Pvt Ltd,KAV/11/280,Packaging material,110911,1,IN
+T044,2025-11-12,Coastal Freight Carriers,COA/11/529,Domestic freight,60819,1,IN
+T045,2025-11-26,Southern Steel Traders,SOU/11/596,Steel sheets,245502,1,IN
+T046,2025-12-24,Kaveri Packaging Pvt Ltd,KAV/12/228,Packaging material,195941,1,IN
+T047,2025-12-24,Brightline IT Services,BRI/12/857,IT support,112087,1,IN
+T048,2025-12-26,Coastal Freight Carriers,COA/12/507,Domestic freight,174551,1,IN
